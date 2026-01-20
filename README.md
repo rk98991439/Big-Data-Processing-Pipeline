@@ -10,8 +10,6 @@ A robust data processing pipeline built using **Apache Spark (PySpark)**. This p
 * **Scalability:** Built on Apache Spark, allowing the logic to scale from small datasets to big data environments.
 * **Transformation:** specific transformations defined in `spark_script.py` (e.g., handling null values, type casting).
 
----
-
 ## 🛠️ Prerequisites
 
 Before running the pipeline, ensure you have the following installed:
